@@ -50,6 +50,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/google/atv" name="device/google/atv" groups="device,fugu" />
   <project path="device/sample" name="device/sample" groups="pdk" />
+  <project path="device/samsung/i9500" name="EuphoriaOS/android_device_samsung_i9500" remote="github" revision="eos" />  
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs" />
@@ -273,7 +274,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" />
   <project path="frameworks/av" name="Euphoria-OS-Legacy/android_frameworks_av" groups="pdk" remote="github" revision="lollipop" />
-  <project path="frameworks/base" name="Euphoria-OS-Legacy/android_frameworks_base" groups="pdk-cw-fs" remote="github" revision="lollipop" />
+  <project path="frameworks/base" name="EuphoriaOS/android_frameworks_base" groups="pdk-cw-fs" remote="github" revision="lollipop" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
@@ -356,7 +357,6 @@
   <project path="hardware/qcom/wlan" name="Euphoria-OS-Legacy/android_hardware_qcom_wlan" groups="qcom_wlan" remote="github" revision="lollipop" />
   <project path="hardware/ril" name="Euphoria-OS-Legacy/android_hardware_ril" groups="pdk" remote="github" revision="lollipop" />
   <project path="hardware/ril-caf" name="Euphoria-OS-Legacy/android_hardware_ril" groups="pdk" remote="github" revision="lollipop-caf" />
-  <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" groups="exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
@@ -550,11 +550,11 @@
   <project path="packages/apps/CustomWallpapers" name="Euphoria-OS/android_packages_apps_CustomWallpapers" remote="Euphoria-OS" revision="lollipop" />
   <project path="packages/apps/Eleven" name="Euphoria-OS/android_packages_apps_Eleven" remote="Euphoria-OS" revision="lollipop" />
   <project path="packages/apps/LockClock" name="Euphoria-OS/android_packages_apps_LockClock" remote="Euphoria-OS" revision="lollipop" />
-  <project path="packages/apps/OpenDelta" name="Euphoria-OS/android_packages_apps_OpenDelta" remote="Euphoria-OS" revision="lollipop" />
   <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="Euphoria-OS" revision="lollipop" />
   <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="Euphoria-OS" revision="lollipop" />
   <project path="packages/apps/ThemeChooser" name="Euphoria-OS/android_packages_apps_ThemeChooser" remote="Euphoria-OS" revision="lollipop" />
-
+  <project path="packages/apps/OpenDelta" name="EuphoriaOS/android_packages_apps_OpenDelta" remote="Euphoria-OS" revision="lollipop" />
+  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-12.0" />
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="Euphoria-OS" revision="lollipop" />
 
 </manifest>
