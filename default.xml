@@ -63,7 +63,7 @@
   <project path="external/arduino" name="platform/external/arduino" groups="pdk-cw-fs" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk-cw-fs" />
-  <project path="external/bluetooth/bluedroid" name="EuphoriaOS/android_external_bluetooth_bluedroid" groups="pdk" remote="github" revision="lollipop" />
+  <project path="external/bluetooth/bluedroid" name="Euphoria-OS-Legacy/android_external_bluetooth_bluedroid" groups="pdk" remote="github" revision="lollipop" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" />
