@@ -491,7 +491,7 @@
   <project path="system/core" name="Euphoria-OS-Legacy/android_system_core" groups="pdk" remote="github" revision="lollipop" />
   <project path="system/extras" name="Euphoria-OS-Legacy/android_system_extras" groups="pdk" remote="github" revision="lollipop" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
-  <project path="system/media" name="Euphoria-OS-Legacy/android_system_media" groups="pdk" remote="github" revision="lollipop" />
+  <project path="system/media" name="EuphoriaOS/android_system_media" groups="pdk" remote="github" revision="lollipop" />
   <project path="system/netd" name="Euphoria-OS-Legacy/android_system_netd" groups="pdk" remote="github" revision="lollipop" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="Euphoria-OS-Legacy/android_system_vold" groups="pdk" remote="github" revision="lollipop" />
@@ -525,7 +525,7 @@
   <project path="external/connectivity" name="Euphoria-OS-Legacy/android_external_connectivity" remote="github" revision="lollipop" />
   <project path="external/exfat" name="Euphoria-OS-Legacy/android_external_exfat" remote="github" revision="lollipop" />
   <project path="external/fuse" name="Euphoria-OS-Legacy/android_external_fuse" remote="github" revision="lollipop" />
-  <project path="external/ffmpeg" name="Euphoria-OS-Legacy/android_external_ffmpeg" remote="github" revision="lollipop" />
+  <project path="external/ffmpeg" name="EuphoriaOS/android_external_ffmpeg" remote="github" revision="lollipop" />
   <project path="external/google" name="Euphoria-OS/android_external_google" remote="Euphoria-OS" revision="lollipop" />
   <project path="external/libncurses" name="Euphoria-OS-Legacy/android_external_libncurses" remote="github" revision="lollipop" />
   <project path="external/ntfs-3g" name="Euphoria-OS-Legacy/android_external_ntfs-3g" remote="github" revision="lollipop" />
