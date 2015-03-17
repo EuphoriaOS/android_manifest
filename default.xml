@@ -297,25 +297,9 @@
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="Euphoria-OS-Legacy/android_hardware_broadcom_libbt" groups="pdk" remote="github" revision="lollipop" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" />
-  <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel" />
-  <project path="hardware/intel/bootstub" name="platform/hardware/intel/bootstub" groups="intel" />
-  <project path="hardware/intel/common/bd_prov" name="platform/hardware/intel/common/bd_prov" groups="intel" />
-  <project path="hardware/intel/common/libmix" name="platform/hardware/intel/common/libmix" groups="intel" />
-  <project path="hardware/intel/common/libstagefrighthw" name="platform/hardware/intel/common/libstagefrighthw" groups="intel" />
-  <project path="hardware/intel/common/libva" name="platform/hardware/intel/common/libva" groups="intel" />
-  <project path="hardware/intel/common/libwsbm" name="platform/hardware/intel/common/libwsbm" groups="intel" />
-  <project path="hardware/intel/common/omx-components" name="platform/hardware/intel/common/omx-components" groups="intel" />
-  <project path="hardware/intel/common/utils" name="platform/hardware/intel/common/utils" groups="intel" />
-  <project path="hardware/intel/common/wrs_omxil_core" name="platform/hardware/intel/common/wrs_omxil_core" groups="intel" />
-  <project path="hardware/intel/img/hwcomposer" name="platform/hardware/intel/img/hwcomposer" groups="intel" />
-  <project path="hardware/intel/img/libdrm" name="platform/hardware/intel/img/libdrm" groups="intel" />
-  <project path="hardware/intel/img/psb_headers" name="platform/hardware/intel/img/psb_headers" groups="intel" />
-  <project path="hardware/intel/img/psb_video" name="platform/hardware/intel/img/psb_video" groups="intel" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
   <project path="hardware/libhardware" name="Euphoria-OS-Legacy/android_hardware_libhardware" groups="pdk" remote="github" revision="lollipop" />
   <project path="hardware/libhardware_legacy" name="Euphoria-OS-Legacy/android_hardware_libhardware_legacy" groups="pdk" remote="github" revision="lollipop" />
-  <project path="hardware/nvidia/audio" name="platform/hardware/nvidia/audio" groups="nvidia_audio" />
-  <project path="hardware/nvidia/tegra124" name="platform/hardware/nvidia/tegra124" groups="tegra124" />
   <project path="hardware/qcom/audio/default" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop" />
   <project path="hardware/qcom/audio-caf/msm8226" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-8226" />
   <project path="hardware/qcom/audio-caf/msm8960" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-8960" />
@@ -349,9 +333,9 @@
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="Euphoria-OS-Legacy/android_packages_apps_Bluetooth" groups="pdk-cw-fs" remote="github" revision="lollipop" />
-  <project path="packages/apps/Browser" name="Euphoria-OS/android_packages_apps_Browser" remote="Euphoria-OS" revision="lollipop" />
+  <project path="packages/apps/Browser" name="Euphoria-OS/android_packages_apps_Browser" remote="Euphoria-OS" revision="lollipop-5.02" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
-  <project path="packages/apps/Calendar" name="Euphoria-OS/android_packages_apps_Calendar" remote="Euphoria-OS" revision="lollipop" />
+  <project path="packages/apps/Calendar" name="Euphoria-OS/android_packages_apps_Calendar" remote="Euphoria-OS" revision="lollipop-5.02" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
   <project path="packages/apps/Camera2" name="Euphoria-OS-Legacy/android_packages_apps_Camera2" remote="github" revision="lollipop" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
@@ -360,10 +344,10 @@
   <project path="packages/apps/ContactsCommon" name="Euphoria-OS-Legacy/android_packages_apps_ContactsCommon" remote="github" revision="lollipop" />
   <project path="packages/apps/DeskClock" name="Euphoria-OS-Legacy/android_packages_apps_DeskClock" remote="github" revision="lollipop" />
   <project path="packages/apps/Dialer" name="Euphoria-OS-Legacy/android_packages_apps_Dialer" remote="github" revision="lollipop" />
-  <project path="packages/apps/Email" name="platform/packages/apps/Email" />
-  <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
+  <project path="packages/apps/Email" name="Euphoria-OS/android_packages_apps_Email" remote="Euphoria-OS" revision="lollipop-5.02" />
+  <project path="packages/apps/Exchange" name="Euphoria-OS/android_packages_apps_Exchange" remote="Euphoria-OS" revision="lollipop-5.02" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
-  <project path="packages/apps/Gallery2" name="Euphoria-OS/android_packages_apps_Gallery2" remote="Euphoria-OS" revision="lollipop" />
+  <project path="packages/apps/Gallery2" name="Euphoria-OS/android_packages_apps_Gallery2" remote="Euphoria-OS" revision="lollipop-5.02" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="Euphoria-OS-Legacy/android_packages_apps_InCallUI" remote="github" revision="lollipop" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
@@ -376,7 +360,7 @@
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="Euphoria-OS-Legacy/android_packages_apps_Nfc" remote="github" revision="lollipop" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="Euphoria-OS/android_packages_apps_PackageInstaller" remote="Euphoria-OS" revision="lollipop" />
+  <project path="packages/apps/PackageInstaller" name="Euphoria-OS/android_packages_apps_PackageInstaller" remote="Euphoria-OS" revision="lollipop-5.02" />
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" />
   <project path="packages/apps/PhoneCommon" name="Euphoria-OS-Legacy/android_packages_apps_PhoneCommon" remote="github" revision="lollipop" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
@@ -390,16 +374,16 @@
   <project path="packages/apps/Stk" name="Euphoria-OS-Legacy/android_packages_apps_Stk" remote="github" revision="lollipop" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" />
-  <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
+  <project path="packages/apps/UnifiedEmail" name="Euphoria-OS/android_packages_apps_UnifiedEmail" remote="Euphoria-OS" revision="lollipop-5.02" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="platform/packages/experimental" />
-  <project path="packages/inputmethods/LatinIME" name="Euphoria-OS/android_packages_inputmethods_LatinIME" remote="Euphoria-OS" revision="lollipop" />
+  <project path="packages/inputmethods/LatinIME" name="Euphoria-OS/android_packages_inputmethods_LatinIME" remote="Euphoria-OS" revision="lollipop-5.02" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" groups="pdk-cw-fs" />
   <project path="packages/providers/ContactsProvider" name="Euphoria-OS-Legacy/android_packages_providers_ContactsProvider" groups="pdk-cw-fs" remote="github" revision="lollipop" />
-  <project path="packages/providers/DownloadProvider" name="Euphoria-OS/android_packages_providers_DownloadProvider" groups="pdk-cw-fs" remote="Euphoria-OS" revision="lollipop" />
-  <project path="packages/providers/MediaProvider" name="Euphoria-OS/android_packages_providers_MediaProvider" groups="pdk-cw-fs" remote="Euphoria-OS" revision="lollipop" />
+  <project path="packages/providers/DownloadProvider" name="Euphoria-OS/android_packages_providers_DownloadProvider" groups="pdk-cw-fs" remote="Euphoria-OS" revision="lollipop-5.02" />
+  <project path="packages/providers/MediaProvider" name="Euphoria-OS/android_packages_providers_MediaProvider" groups="pdk-cw-fs" remote="Euphoria-OS" revision="lollipop-5.02" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="Euphoria-OS-Legacy/android_packages_providers_TelephonyProvider" remote="github" revision="lollipop" />
   <project path="packages/providers/TvProvider" name="platform/packages/providers/TvProvider" />
@@ -538,7 +522,6 @@
   <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="Euphoria-OS" revision="lollipop" />
   <project path="packages/apps/ThemeChooser" name="Euphoria-OS/android_packages_apps_ThemeChooser" remote="Euphoria-OS" revision="lollipop" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-12.0" />
-  
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="Euphoria-OS" revision="lollipop" />
 
 </manifest>
