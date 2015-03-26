@@ -17,12 +17,12 @@
   <remote  name="MrTumbles"
            fetch="https://github.com" />
 
-  <project path="build" name="EuphoriaOS/android_build" groups="pdk,tradefed" remote="github" revision="lollipop" >
+  <project path="build" name="ArchiDroid/android_build" remote="github" revision="cm-12.0-optimized" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="Euphoria-OS-Legacy/android_art" groups="pdk" remote="github" revision="lollipop" />
-  <project path="bionic" name="Euphoria-OS-Legacy/android_bionic" groups="pdk" remote="github" revision="lollipop" />
+  <project path="bionic" name="ArchiDroid/android_bionic" remote="github" revision="cm-12.0" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" groups="pdk-cw-fs" />
   <project path="bootable/recovery" name="Euphoria-OS-Legacy/android_bootable_recovery" groups="pdk" remote="github" revision="lollipop" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
@@ -436,7 +436,7 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" groups="pdk,linux,arm" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="pdk,linux,arm" />
+  <project name="ArchiDroid/Toolchain" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" remote="github" revision="sabermod-4.8-arm-linux-androideabi" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" groups="pdk,linux" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" groups="pdk,linux" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" />
