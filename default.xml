@@ -17,7 +17,7 @@
   <remote  name="MrTumbles"
            fetch="https://github.com" />
 
-  <project path="build" name="Euphoria-OS-Legacy/android_build" groups="pdk,tradefed" remote="github" revision="lollipop-5.0" >
+  <project path="build" name="EuphoriaOS/android_build" groups="pdk,tradefed" remote="github" revision="lollipop-5.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
