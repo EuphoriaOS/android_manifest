@@ -295,7 +295,7 @@
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs" />
   <project path="frameworks/wilhelm" name="Euphoria-OS-Legacy/android_frameworks_wilhelm" groups="pdk-cw-fs" remote="github" revision="lollipop-5.0" />
   <project path="hardware/akm" name="platform/hardware/akm" />
-  <project path="hardware/broadcom/libbt" name="Euphoria-OS-Legacy/android_hardware_broadcom_libbt" groups="pdk" remote="github" revision="lollipop-5.0" />
+  <project path="hardware/broadcom/libbt" name="Euphoria-OS-Legacy/android_hardware_broadcom_libbt" groups="pdk" remote="github" revision="lollipop" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
   <project path="hardware/libhardware" name="Euphoria-OS-Legacy/android_hardware_libhardware" groups="pdk" remote="github" revision="lollipop-5.0" />
