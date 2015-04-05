@@ -303,8 +303,6 @@
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
   <project path="hardware/libhardware" name="Euphoria-OS-Legacy/android_hardware_libhardware" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="hardware/libhardware_legacy" name="Euphoria-OS-Legacy/android_hardware_libhardware_legacy" groups="pdk" remote="github" revision="lollipop-5.1" />
-  <project path="hardware/nvidia/audio" name="platform/hardware/nvidia/audio" groups="nvidia_audio" />
-  <project path="hardware/nvidia/tegra124" name="platform/hardware/nvidia/tegra124" groups="tegra124" />
   <project path="hardware/qcom/audio/default" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1" />
   <project path="hardware/qcom/audio-caf/msm8226" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8226" />
   <project path="hardware/qcom/audio-caf/msm8960" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8960" />
