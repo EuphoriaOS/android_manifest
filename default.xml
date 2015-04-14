@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
-  <default revision="refs/tags/android-5.1.0_r3"
+  <default revision="refs/tags/android-5.1.0_r5"
            remote="aosp"
            sync-j="4" />
 
@@ -176,7 +176,7 @@
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk-cw-fs" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk-cw-fs" />
   <project path="external/libvorbis" name="platform/external/libvorbis" groups="pdk-cw-fs" />
-  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" />
+  <project path="external/libvpx" name="Euphoria-OS-Legacy/android_external_libvpx" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="external/libvterm" name="platform/external/libvterm" groups="pdk-cw-fs" />
   <project path="external/libxml2" name="Euphoria-OS-Legacy/android_external_libxml2" groups="pdk-cw-fs" remote="github" revision="lollipop-5.1" />
   <project path="external/libyuv" name="platform/external/libyuv" groups="libyuv,pdk-cw-fs" />
