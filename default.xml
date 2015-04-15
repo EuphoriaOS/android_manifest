@@ -532,6 +532,5 @@
 
   <!--CyanogenMod SamsungServiceMode -->
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-12.0" />
-  <project path="packages/apps/OpenDelta" name="EuphoriaOS/android_packages_apps_OpenDelta" remote="Euphoria-OS" revision="lollipop-5.1" />
-  
+
 </manifest>
