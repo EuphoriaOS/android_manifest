@@ -33,7 +33,8 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="Euphoria-OS-Legacy/android_development" groups="pdk-cw-fs" remote="github" revision="lollipop-5.1" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs" />
-  <project path="device/samsung/i9500" name="EuphoriaOS/android_device_samsung_i9500" remote="github" revision="lollipop" />    <project path="device/sample" name="device/sample" groups="pdk" />
+  <project path="device/samsung/i9500" name="EuphoriaOS/android_device_samsung_i9500" remote="github" revision="lollipop-1" />    
+  <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs" />
