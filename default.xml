@@ -541,5 +541,6 @@
   <project path="device/samsung/jf-common" name="EuphoriaOS/android_device_samsung_jf-common" remote="github" revision="cm-12.1" />
   <project path="device/samsung/i9500" name="EuphoriaOS/android_device_samsung_i9500" remote="github" revision="lollipop" />    
   <project path="hardware/samsung_slsi/exynos5" name="CyanogenMod/android_hardware_samsung_slsi_exynos5" remote="github" revision="cm-12.1" />
+  <project path="device/samsung/qcom-common" name="AntaresOne/android_device_samsung_qcom-common" remote="github" revision="cm-12.1" />
   
 </manifest>
