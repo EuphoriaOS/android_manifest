@@ -540,4 +540,7 @@
   <project path="device/samsung/i9500" name="EuphoriaOS/android_device_samsung_i9500" remote="github" revision="cm-12.1" />    
   <project path="hardware/samsung_slsi/exynos5" name="CyanogenMod/android_hardware_samsung_slsi_exynos5" remote="github" revision="cm-12.1" />
 
+  <!-- Cards -->
+  <project path="frameworks/opt/cards" name="Euphoria-OS/android_frameworks_opt_cards" remote="Euphoria-OS" revision="lollipop-5.1" />
+
 </manifest>
