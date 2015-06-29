@@ -359,7 +359,7 @@
   <project path="packages/apps/InCallUI" name="Euphoria-OS-Legacy/android_packages_apps_InCallUI" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
+  <project path="packages/apps/Launcher3" name="Euphoria-OS/android_packages_apps_Launcher3" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" />
   <project path="packages/apps/Mms" name="Euphoria-OS-Legacy/android_packages_apps_Mms" remote="github" revision="lollipop-5.1" />
@@ -545,5 +545,6 @@
 
   <!-- Cards -->
   <project path="frameworks/opt/cards" name="Euphoria-OS/android_frameworks_opt_cards" remote="Euphoria-OS" revision="lollipop-5.1" />
-
+  <project path="prebuilts/cmsdk" name="Euphoria-OS-Legacy/android_prebuilts_cmsdk" remote="github" revision="master" />
+  
 </manifest>
