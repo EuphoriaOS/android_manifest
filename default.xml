@@ -492,7 +492,7 @@
   <!-- Custom projects -->
 
   <!-- Euphoria-OS vendor -->
-  <project path="vendor/eos" name="EuphoriaOS/android_vendor_eos" remote="github" revision="lollipop-5.1" />
+  <project path="vendor/eos" name="Euphoria-OS-Legacy/android_vendor_eos" remote="github" revision="lollipop-5.1" />
 
   <!-- External -->
   <project path="external/android-visualizer" name="Euphoria-OS/android_external_android-visualizer" remote="Euphoria-OS" revision="lollipop-5.1" />
