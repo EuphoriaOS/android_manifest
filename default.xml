@@ -539,7 +539,6 @@
   <project path="packages/apps/ThemeChooser" name="Euphoria-OS/android_packages_apps_ThemeChooser" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/Profiles" name="Euphoria-OS/android_packages_apps_Profiles" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="Euphoria-OS" revision="lollipop-5.1" />
-  <project path="packages/apps/SuperSU" name="GearCM/android_packages_apps_SuperSU" remote="github" revision="v2.46" />
   <project path="packages/apps/Synapse" name="GearCM/android_packages_apps_Synapse" remote="github" revision="cm-12.1" />
 
   <!--CyanogenMod SamsungServiceMode -->
