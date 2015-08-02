@@ -309,9 +309,6 @@
   <project path="hardware/libhardware_legacy" name="Euphoria-OS-Legacy/android_hardware_libhardware_legacy" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="hardware/ril" name="Euphoria-OS-Legacy/android_hardware_ril" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="hardware/ril-caf" name="Euphoria-OS-Legacy/android_hardware_ril" groups="pdk" remote="github" revision="lollipop-5.1-caf" />
-  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" />
-  <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" />
-  <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
   <project path="libcore" name="Euphoria-OS-Legacy/android_libcore" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="libnativehelper" name="Euphoria-OS-Legacy/android_libnativehelper" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="ndk" name="platform/ndk" />
