@@ -487,7 +487,6 @@
   <project path="packages/apps/CustomWallpapers" name="Euphoria-OS/android_packages_apps_CustomWallpapers" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/Eleven" name="Euphoria-OS/android_packages_apps_Eleven" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/LockClock" name="Euphoria-OS/android_packages_apps_LockClock" remote="Euphoria-OS" revision="lollipop-5.1" />
-  <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/ThemeChooser" name="Euphoria-OS/android_packages_apps_ThemeChooser" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/Profiles" name="Euphoria-OS/android_packages_apps_Profiles" remote="Euphoria-OS" revision="lollipop-5.1" />
@@ -495,6 +494,7 @@
   <project path="packages/apps/WallpaperPicker" name="Euphoria-OS/android_packages_apps_WallpaperPicker" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/Settings" name="i9500/android_packages_apps_Settings" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/Trebuchet" name="Euphoria-OS/android_packages_apps_Trebuchet" remote="Euphoria-OS" revision="lollipop-5.1" />
+  <project path="packages/apps/OTAUpdates" name="MatthewBooth/OTAUpdates" remote="github" revision="aosp" />
   
   <!--CyanogenMod SamsungServiceMode -->
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-12.1" />
