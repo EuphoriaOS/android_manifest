@@ -494,7 +494,7 @@
   <project path="packages/apps/WallpaperPicker" name="Euphoria-OS/android_packages_apps_WallpaperPicker" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/Settings" name="i9500/android_packages_apps_Settings" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/Trebuchet" name="Euphoria-OS/android_packages_apps_Trebuchet" remote="Euphoria-OS" revision="lollipop-5.1" />
-  <project path="packages/apps/OTAUpdates" name="MatthewBooth/OTAUpdates" remote="github" revision="aosp" />
+  <project path="packages/apps/OTAUpdates" name="MatthewBooth/OTAUpdates" remote="github" revision="stable" />
   
   <!--CyanogenMod SamsungServiceMode -->
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-12.1" />
