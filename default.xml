@@ -267,7 +267,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" />
   <project path="frameworks/av" name="Euphoria-OS-Legacy/android_frameworks_av" groups="pdk" remote="github" revision="lollipop-5.1" />
-  <project path="frameworks/base" name="EuphoriaOS/android_frameworks_base" groups="pdk-cw-fs" remote="github" revision="lollipop-5.1" />
+  <project path="frameworks/base" name="Euphoria-OS-Legacy/android_frameworks_base" groups="pdk-cw-fs" remote="github" revision="lollipop-5.1" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
@@ -492,7 +492,7 @@
   <project path="packages/apps/Profiles" name="Euphoria-OS/android_packages_apps_Profiles" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/WallpaperPicker" name="Euphoria-OS/android_packages_apps_WallpaperPicker" remote="Euphoria-OS" revision="lollipop-5.1" />
-  <project path="packages/apps/Settings" name="i9500/android_packages_apps_Settings" remote="github" revision="lollipop-5.1" />
+  <project path="packages/apps/Settings" name="Euphoria-OS-Legacy/android_packages_apps_Settings" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/Trebuchet" name="Euphoria-OS/android_packages_apps_Trebuchet" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="Euphoria-OS" revision="lollipop-5.1" />
   
