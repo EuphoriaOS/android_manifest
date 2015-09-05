@@ -492,7 +492,7 @@
   <project path="packages/apps/Profiles" name="Euphoria-OS/android_packages_apps_Profiles" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/WallpaperPicker" name="Euphoria-OS/android_packages_apps_WallpaperPicker" remote="Euphoria-OS" revision="lollipop-5.1" />
-  <project path="packages/apps/Settings" name="Euphoria-OS-Legacy/android_packages_apps_Settings" remote="github" revision="lollipop-5.1" />
+  <project path="packages/apps/Settings" name="EuphoriaOS/android_packages_apps_Settings" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/Trebuchet" name="Euphoria-OS/android_packages_apps_Trebuchet" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="Euphoria-OS" revision="lollipop-5.1" />
   
