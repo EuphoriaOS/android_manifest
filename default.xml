@@ -308,6 +308,29 @@
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
   <project path="hardware/libhardware" name="Euphoria-OS-Legacy/android_hardware_libhardware" groups="pdk" remote="github" revision="lollipop-5.1" />
+  <project path="hardware/qcom/audio/default" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1" />
+  <project path="hardware/qcom/audio-caf/msm8226" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8226" />
+  <project path="hardware/qcom/audio-caf/msm8960" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8960" />
+  <project path="hardware/qcom/audio-caf/msm8974" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8974" />
+  <project path="hardware/qcom/bt" name="Euphoria-OS-Legacy/android_hardware_qcom_bt" groups="qcom" remote="github" revision="lollipop-5.1" />
+  <project path="hardware/qcom/display" name="Euphoria-OS-Legacy/android_hardware_qcom_display" groups="qcom,qcom_display" remote="github" revision="lollipop-5.1" />
+  <project path="hardware/qcom/display-caf/msm8226" name="Euphoria-OS-Legacy/android_hardware_qcom_display" groups="qcom,qcom_display" remote="github" revision="lollipop-5.1-8226" />
+  <project path="hardware/qcom/display-caf/msm8960" name="Euphoria-OS-Legacy/android_hardware_qcom_display" groups="qcom,qcom_display" remote="github" revision="lollipop-5.1-8960" />
+  <project path="hardware/qcom/display-caf/msm8974" name="Euphoria-OS-Legacy/android_hardware_qcom_display" groups="qcom,qcom_display" remote="github" revision="lollipop-5.1-8974" />
+  <project path="hardware/qcom/gps" name="Euphoria-OS-Legacy/android_hardware_qcom_gps" groups="qcom" remote="github" revision="lollipop-5.1" />
+  <project path="hardware/qcom/keymaster" name="Euphoria-OS-Legacy/android_hardware_qcom_keymaster" groups="qcom" remote="github" revision="lollipop-5.1" />
+  <project path="hardware/qcom/media/default" name="Euphoria-OS-Legacy/android_hardware_qcom_media" groups="qcom" remote="github" revision="lollipop-5.1" />
+  <project path="hardware/qcom/media-caf/msm8226" name="Euphoria-OS-Legacy/android_hardware_qcom_media" groups="qcom" remote="github" revision="lollipop-5.1-8226" />
+  <project path="hardware/qcom/media-caf/msm8960" name="Euphoria-OS-Legacy/android_hardware_qcom_media" groups="qcom" remote="github" revision="lollipop-5.1-8960" />
+  <project path="hardware/qcom/media-caf/msm8974" name="Euphoria-OS-Legacy/android_hardware_qcom_media" groups="qcom" remote="github" revision="lollipop-5.1-8974" />
+  <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" />
+  <project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" groups="qcom_msm8x26" />
+  <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" />
+  <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" />
+  <project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" groups="qcom_msm8x84" />
+  <project path="hardware/qcom/power" name="Euphoria-OS-Legacy/android_hardware_qcom_power" groups="qcom" remote="github" revision="lollipop-5.1" />
+  <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
+  <project path="hardware/qcom/wlan" name="Euphoria-OS-Legacy/android_hardware_qcom_wlan" groups="qcom_wlan" remote="github" revision="lollipop-5.1" />
   <project path="hardware/libhardware_legacy" name="Euphoria-OS-Legacy/android_hardware_libhardware_legacy" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="hardware/ril" name="Euphoria-OS-Legacy/android_hardware_ril" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="hardware/ril-caf" name="Euphoria-OS-Legacy/android_hardware_ril" groups="pdk" remote="github" revision="lollipop-5.1-caf" />
