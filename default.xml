@@ -8,7 +8,7 @@
            remote="aosp"
            sync-j="4" />
            
-  <remote  name="github"
+  <remote  name="cyanogenmod"
            fetch=".."
            review="review.cyanogenmod.org" />
 
