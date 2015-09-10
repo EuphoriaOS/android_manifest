@@ -40,7 +40,6 @@
   <project path="device/common" name="device/common" groups="pdk-cw-fs" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/i9500" name="Euphoria-OS-Legacy/android_device_samsung_i9500" remote="github" revision="lollipop-5.1" />
-  <project path="device/sony/z3" name="EuphoriaOS/device_sony_z3" remote="github" revision="lollipop-5.1" />    
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs" />
