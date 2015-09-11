@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
-  <default revision="refs/tags/android-5.1.1_r13"
+  <default revision="refs/tags/android-5.1.1_r17"
            remote="aosp"
            sync-j="4" />
 
@@ -304,8 +304,6 @@
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
   <project path="hardware/libhardware" name="Euphoria-OS-Legacy/android_hardware_libhardware" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="hardware/libhardware_legacy" name="Euphoria-OS-Legacy/android_hardware_libhardware_legacy" groups="pdk" remote="github" revision="lollipop-5.1" />
-  <project path="hardware/nvidia/audio" name="platform/hardware/nvidia/audio" groups="nvidia_audio" />
-  <project path="hardware/nvidia/tegra124" name="platform/hardware/nvidia/tegra124" groups="tegra124" />
   <project path="hardware/qcom/audio/default" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1" />
   <project path="hardware/qcom/audio-caf/msm8226" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8226" />
   <project path="hardware/qcom/audio-caf/msm8960" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8960" />
@@ -350,7 +348,6 @@
   <project path="packages/apps/ContactsCommon" name="Euphoria-OS-Legacy/android_packages_apps_ContactsCommon" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/DeskClock" name="Euphoria-OS-Legacy/android_packages_apps_DeskClock" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/Dialer" name="Euphoria-OS-Legacy/android_packages_apps_Dialer" remote="github" revision="lollipop-5.1" />
-  <project path="packages/apps/DeviceHandler" name="EuphoriaOS/packages_apps_DeviceHandler" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/FMRadio" name="platform/packages/apps/FMRadio" />
@@ -471,7 +468,7 @@
   <!-- Custom projects -->
 
   <!-- Euphoria-OS vendor -->
-  <project path="vendor/eos" name="EuphoriaOS/android_vendor_eos" remote="github" revision="lollipop-5.1" />
+  <project path="vendor/eos" name="Euphoria-OS-Legacy/android_vendor_eos" remote="github" revision="lollipop-5.1" />
 
   <!-- External -->
   <project path="external/android-visualizer" name="Euphoria-OS/android_external_android-visualizer" remote="Euphoria-OS" revision="lollipop-5.1" />
@@ -498,7 +495,7 @@
   <project path="frameworks/opt/hardware" name="Euphoria-OS-Legacy/android_frameworks_opt_hardware" remote="github" revision="lollipop-5.1" />
   <project path="hardware/cm" name="Euphoria-OS-Legacy/android_hardware_cm" remote="github" revision="lollipop-5.1" />
   <project path="hardware/cyanogen" name="Euphoria-OS-Legacy/android_hardware_cyanogen" remote="github" revision="lollipop-5.1" />
- 
+
   <!-- CM SDK -->
   <project path="vendor/cmsdk" name="Euphoria-OS-Legacy/cm_platform_sdk" remote="github" revision="lollipop-5.1" />
   <project path="prebuilts/cmsdk" name="Euphoria-OS-Legacy/android_prebuilts_cmsdk" remote="github" revision="lollipop-5.1" />
@@ -515,12 +512,12 @@
   <project path="packages/apps/CustomWallpapers" name="Euphoria-OS/android_packages_apps_CustomWallpapers" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/Eleven" name="Euphoria-OS/android_packages_apps_Eleven" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/LockClock" name="Euphoria-OS/android_packages_apps_LockClock" remote="Euphoria-OS" revision="lollipop-5.1" />
+  <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/Profiles" name="Euphoria-OS/android_packages_apps_Profiles" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/ThemeChooser" name="Euphoria-OS/android_packages_apps_ThemeChooser" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/Trebuchet" name="Euphoria-OS/android_packages_apps_Trebuchet" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/OpenDelta" name="EuphoriaOS/android_packages_apps_OpenDelta" remote="github" revision="lollipop-5.1" />
-
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="Euphoria-OS" revision="lollipop-5.1" />
 
   <!-- Cards -->
