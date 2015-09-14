@@ -305,9 +305,6 @@
   <project path="hardware/libhardware" name="Euphoria-OS-Legacy/android_hardware_libhardware" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="hardware/libhardware_legacy" name="Euphoria-OS-Legacy/android_hardware_libhardware_legacy" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="hardware/qcom/audio/default" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1" />
-  <project path="hardware/qcom/audio-caf/msm8226" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8226" />
-  <project path="hardware/qcom/audio-caf/msm8960" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8960" />
-  <project path="hardware/qcom/audio-caf/msm8974" name="Euphoria-OS-Legacy/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lollipop-5.1-8974" />
   <project path="hardware/qcom/bt" name="Euphoria-OS-Legacy/android_hardware_qcom_bt" groups="qcom" remote="github" revision="lollipop-5.1" />
   <project path="hardware/qcom/display" name="Euphoria-OS-Legacy/android_hardware_qcom_display" groups="qcom,qcom_display" remote="github" revision="lollipop-5.1" />
   <project path="hardware/qcom/display-caf/msm8226" name="Euphoria-OS-Legacy/android_hardware_qcom_display" groups="qcom,qcom_display" remote="github" revision="lollipop-5.1-8226" />
