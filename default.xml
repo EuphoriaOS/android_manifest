@@ -486,8 +486,8 @@
   <project path="external/stagefright-plugins" name="Euphoria-OS-Legacy/android_external_stagefright-plugins" remote="github" revision="lollipop-5.1" />
 
   <!-- Su -->
-  <project path="system/extras/su" name="Euphoria-OS/android_system_extras_su" remote="Euphoria-OS" revision="lollipop-5.1" />
-
+  <project path="packages/apps/SuperSU" name="GearCM/android_packages_apps_SuperSU" remote="github" revision="v2.46" />
+ 
   <!-- CM Hardware -->
   <project path="frameworks/opt/hardware" name="Euphoria-OS-Legacy/android_frameworks_opt_hardware" remote="github" revision="lollipop-5.1" />
   <project path="hardware/cm" name="Euphoria-OS-Legacy/android_hardware_cm" remote="github" revision="lollipop-5.1" />
